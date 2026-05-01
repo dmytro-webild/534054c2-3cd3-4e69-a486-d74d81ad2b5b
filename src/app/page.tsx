@@ -72,7 +72,7 @@ export default function LandingPage() {
             gridVariant="three-columns-all-equal-width"
             features={[
               { title: "Nail Extensions", description: "Durable and elegant nail extensions.", imageSrc: "http://img.b2bpic.net/free-photo/female-hands-with-beige-nail-design-holding-black-cup_127675-2659.jpg", titleImageSrc: "http://img.b2bpic.net/free-photo/tanned-hand-woman-with-gentle-beige-pink-manicure-covering-with-gel-polish_343596-6402.jpg", buttonText: "See More" },
-              { title: "Lash Installations", description: "Professional lash extensions.", imageSrc: "http://img.b2bpic.net/free-photo/skillful-cosmetologist-lash-extension-procedure_181624-47041.jpg", titleImageSrc: "http://img.b2bpic.net/free-photo/fashion-beauty-portrait-young-brunette-woman-with-evening-stylish-makeup-perfect-clean-skin-sexy-model-with-hair-bun-posing-studio-with-pink-bright-natural-lips_158538-24112.jpg", buttonText: "See More" },
+              { title: "Lash Installations", description: "Professional lash extensions.", imageSrc: "http://img.b2bpic.net/free-photo/skillful-cosmetologist-lash-extension-procedure_181624-47041.jpg?_wi=1", titleImageSrc: "http://img.b2bpic.net/free-photo/fashion-beauty-portrait-young-brunette-woman-with-evening-stylish-makeup-perfect-clean-skin-sexy-model-with-hair-bun-posing-studio-with-pink-bright-natural-lips_158538-24112.jpg", buttonText: "See More" },
               { title: "Custom Nail Art", description: "Intricate and creative designs.", imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-woman-with-pretty-manicure_23-2149311578.jpg", titleImageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-woman-with-french-manicure_23-2149311569.jpg", buttonText: "See More" }
             ]}
             title="Our Services"
@@ -105,7 +105,7 @@ export default function LandingPage() {
             products={[
               { id: "g1", brand: "Lebo's", name: "Bridal Nails", price: "R500", rating: 5, reviewCount: "10", imageSrc: "http://img.b2bpic.net/free-photo/hands-with-beautiful-manicure-holding-flowers_127675-23440.jpg" },
               { id: "g2", brand: "Lebo's", name: "Glitter Finish", price: "R450", rating: 5, reviewCount: "15", imageSrc: "http://img.b2bpic.net/free-photo/female-hands-with-blue-nail-design-blue-glitter-nail-polish-manicure-woman-hands-blue-fabric-background_127675-2950.jpg" },
-              { id: "g3", brand: "Lebo's", name: "Classic Lash", price: "R600", rating: 5, reviewCount: "20", imageSrc: "http://img.b2bpic.net/free-photo/skillful-cosmetologist-lash-extension-procedure_181624-47041.jpg" }
+              { id: "g3", brand: "Lebo's", name: "Classic Lash", price: "R600", rating: 5, reviewCount: "20", imageSrc: "http://img.b2bpic.net/free-photo/skillful-cosmetologist-lash-extension-procedure_181624-47041.jpg?_wi=2" }
             ]}
             useInvertedBackground={false}
           />
